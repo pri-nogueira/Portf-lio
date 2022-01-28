@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    /*text-align: center;*/
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3%;
+}
+h1 , h2 {
+    font-style: italic;
+}
+#titulo {
+    font-weight: 600;
+    color:purple;
+    text-align: left;
+    font-size: 20px;
+}
+.descricao {
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    right: 150px;
+}
+.link {
+    color:whitesmoke;
+    font-size: 20px;
+    text-align: left;
+}
+#habilidades {
+    text-align: left;
+    font-size: 18px;
+}
+#minhaFoto {
+    float: left;
+    height: 300px;
+    padding: 10px;
+    background-color: gray;
+}
+.image-container{
+    height: 320px;
+    position: relative;
+}
+.meuNome{
+    text-align: center;
+}
+div{
+    border: 2px dashed gray;
+    padding: 2%;
+}
+ul li:nth-child(odd){
+    background-color: rosybrown;
+}
