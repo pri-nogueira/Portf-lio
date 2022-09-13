@@ -4,7 +4,7 @@
 
 > *Perder tempo em aprender coisas*
 > *que não interessam priva-nos* 
-> *de descobrir coisas interessantes*
+> *de descobrir coisas interessantes* -
 *Carlos Drummond*
 
 [Meu LinkedIn] (https://www.linkedin.com/in/priscila-nogueira-/)
